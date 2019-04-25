@@ -1,0 +1,356 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Kampus\AS\HardwareThings\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from E:\Kampus\AS\HardwareThings\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from E:\Kampus\AS\HardwareThings\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from E:\Kampus\AS\HardwareThings\app\src\main\AndroidManifest.xml:2:1-36:12
+MERGED from [com.android.support:design:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-28.0.0-alpha1.aar\f696028527acba1277633c370e67df2c\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-bottomappbar:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-bottomappbar-28.0.0-alpha1.aar\586bf3ebc4d9642994e70da7b116ecaf\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-theme:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-theme-28.0.0-alpha1.aar\bee61a97a1350ec6f14b077c38695e40\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-transformation:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-transformation-28.0.0-alpha1.aar\1e649ad908004e13c6577ef1afd0ee3d\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-widget:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-widget-28.0.0-alpha1.aar\60bd494f84065dac357a24fbce05792c\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-bottomsheet:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-bottomsheet-28.0.0-alpha1.aar\4ec0544e03fa0276660dcdbc6753e5e1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-dialog:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-dialog-28.0.0-alpha1.aar\b6e3803caca650dadebf79c2c329d193\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-button:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-button-28.0.0-alpha1.aar\6d5e4bdcc8353acd7de6f9bb5bb3550a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-card:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-card-28.0.0-alpha1.aar\f7eddf025991df44982dce4e664d1b7b\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-chip:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-chip-28.0.0-alpha1.aar\f94c574e802f594e4ff3f1dfdf8ef6e1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-internal:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-internal-28.0.0-alpha1.aar\93614a00db32ebbc16e0d51d9a86551f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-bottomnavigation:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-bottomnavigation-28.0.0-alpha1.aar\d3ba90e82eba821c0f542a113eaf5c59\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-floatingactionbutton:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-floatingactionbutton-28.0.0-alpha1.aar\c39ad9434aa60661e9fd2e4491355f3b\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-navigation:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-navigation-28.0.0-alpha1.aar\3052c0d6092915e04693dad2435bfc4c\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-resources:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-resources-28.0.0-alpha1.aar\786734c810f317273607ac96b5eb13c6\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-tabs:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-tabs-28.0.0-alpha1.aar\03052830d74cf3f804d5ea5c6e449301\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-textfield:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-textfield-28.0.0-alpha1.aar\9029eee31da9344dcb8d179fadc070c8\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-typography:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-typography-28.0.0-alpha1.aar\abde3197682faa98edf93807230831ab\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-shape:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-shape-28.0.0-alpha1.aar\8217e20b756f64a13f551afcc18f2288\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha1.aar\b56cc2375fc5266db3b987e6b74e6e68\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-v4:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0-alpha1.aar\89df57aec4036ee1bbf17d00be67328d\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\952fb9fdc8b2a466ac445f58f43a70e0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design-circularreveal-cardview:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-circularreveal-cardview-28.0.0-alpha1.aar\9864a533afe1614f7d2f457da79ed863\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:cardview-v7:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-alpha1.aar\2cf87cee7ec215c4499ec0dc3fa528c4\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0-alpha1.aar\4cb983a0f23a6e9b94dcb2bded4fb24e\AndroidManifest.xml:17:1-23:12
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\e7547b867391b1ad0fa99a385f34ec64\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha1.aar\e1114e913a5d3146f2276d6039fad539\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:design-animation:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-animation-28.0.0-alpha1.aar\35fa23fc1fbfcce14704fa2b3f3f0af2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-circularreveal-coordinatorlayout:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-circularreveal-coordinatorlayout-28.0.0-alpha1.aar\bc9914b4518a2e4e2f290eff4cb782da\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-expandable:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-expandable-28.0.0-alpha1.aar\00acc36445f171a0ef51352e1d0f8d66\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-stateful:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-stateful-28.0.0-alpha1.aar\12fbd6741ce08b36161be1290fd1c84f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha1.aar\70e111ff3eea1bfaf5bc02ad4ebb94c7\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha1.aar\d8730d442e171076872e6f0f06512c56\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:design-ripple:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-ripple-28.0.0-alpha1.aar\4dff1c94f7e2fe30c6c58a610867a2a6\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha1.aar\1b8023f7287a1456a21f3d91d7db4d54\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha1.aar\41bc87c5e4fce4141a2b8b13d88073f5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0-alpha1.aar\4b5c2eb7ab0455c9ad14cbe97770ef95\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:transition:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\transition-28.0.0-alpha1.aar\231ab1eeba9b50e51e4953f676b78536\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:loader:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha1.aar\da9cf459f34a874c9741b473ebd7f91a\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha1.aar\7ca5bf80e2f728df17e9cd45e7f3a391\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha1.aar\d29659877486f2f3bec9b3b925f962cf\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha1.aar\a773ed14b5d31d51084ff31e149f7216\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha1.aar\314e5c9100c18a2af3fb8cb587c85350\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:customview:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha1.aar\274d86ab2e772ba2d73c87cb1aedb44a\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha1.aar\565c4ccbc0a40615b0a83fd5cd4fd86c\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha1.aar\e3cfeb307439e77c560aa40d100d4860\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha1.aar\d3bd5b5a8dc7cb727ccd2ee818580f0c\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:design-canvas:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-canvas-28.0.0-alpha1.aar\7766c6ffa32290df34d53af1669d1e9d\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-circularreveal:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-circularreveal-28.0.0-alpha1.aar\09b8ac755e203dc9b6bb0b8216a1db31\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-drawable:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-drawable-28.0.0-alpha1.aar\fbab09e34a3490e8e31b1634ab343a47\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\3cfc2d79830db60f68d5290a3ca47abb\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha1.aar\57e13c3e4d0520ba1e15f2db701d0efa\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha1.aar\4e9b6504f500223fa469352b2ba1b110\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:print:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha1.aar\3e6fd671e9557843d97f069569f9f41c\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha1.aar\13a2c6b46d554c36ffd19e21a8ef8539\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha1.aar\de2c6a37e448828f74bc0f908d718883\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:design-color:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-color-28.0.0-alpha1.aar\9788ecd53ea5503626a9a6814915a966\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-math:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-math-28.0.0-alpha1.aar\d93e105e065cfefd7ef869dfb19d44c4\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-snackbar:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-snackbar-28.0.0-alpha1.aar\07726c5c67b9366c784faa1af6af5d6d\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\1b5018843a7be14f8bb6bd39382ffa60\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\62a7e134d046e0ed22f569e6be90360f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\9bc42aee6387c4ccd68f0e0df127dd60\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9ba502db0187aa35b147ae81dc3671f5\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\Kampus\AS\HardwareThings\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from E:\Kampus\AS\HardwareThings\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from E:\Kampus\AS\HardwareThings\app\src\main\AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from E:\Kampus\AS\HardwareThings\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from E:\Kampus\AS\HardwareThings\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Kampus\AS\HardwareThings\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Kampus\AS\HardwareThings\app\src\main\AndroidManifest.xml
+		ADDED from E:\Kampus\AS\HardwareThings\app\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from E:\Kampus\AS\HardwareThings\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\Kampus\AS\HardwareThings\app\src\main\AndroidManifest.xml
+		ADDED from E:\Kampus\AS\HardwareThings\app\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from E:\Kampus\AS\HardwareThings\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Kampus\AS\HardwareThings\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from E:\Kampus\AS\HardwareThings\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from E:\Kampus\AS\HardwareThings\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\Kampus\AS\HardwareThings\app\src\main\AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from E:\Kampus\AS\HardwareThings\app\src\main\AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\Kampus\AS\HardwareThings\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from E:\Kampus\AS\HardwareThings\app\src\main\AndroidManifest.xml:7:22-78
+application
+ADDED from E:\Kampus\AS\HardwareThings\app\src\main\AndroidManifest.xml:9:5-34:19
+MERGED from [com.android.support:design:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-28.0.0-alpha1.aar\f696028527acba1277633c370e67df2c\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-28.0.0-alpha1.aar\f696028527acba1277633c370e67df2c\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-bottomappbar:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-bottomappbar-28.0.0-alpha1.aar\586bf3ebc4d9642994e70da7b116ecaf\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-bottomappbar:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-bottomappbar-28.0.0-alpha1.aar\586bf3ebc4d9642994e70da7b116ecaf\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-theme:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-theme-28.0.0-alpha1.aar\bee61a97a1350ec6f14b077c38695e40\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-theme:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-theme-28.0.0-alpha1.aar\bee61a97a1350ec6f14b077c38695e40\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-transformation:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-transformation-28.0.0-alpha1.aar\1e649ad908004e13c6577ef1afd0ee3d\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-transformation:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-transformation-28.0.0-alpha1.aar\1e649ad908004e13c6577ef1afd0ee3d\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-widget:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-widget-28.0.0-alpha1.aar\60bd494f84065dac357a24fbce05792c\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-widget:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-widget-28.0.0-alpha1.aar\60bd494f84065dac357a24fbce05792c\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-bottomsheet:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-bottomsheet-28.0.0-alpha1.aar\4ec0544e03fa0276660dcdbc6753e5e1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-bottomsheet:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-bottomsheet-28.0.0-alpha1.aar\4ec0544e03fa0276660dcdbc6753e5e1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-dialog:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-dialog-28.0.0-alpha1.aar\b6e3803caca650dadebf79c2c329d193\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-dialog:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-dialog-28.0.0-alpha1.aar\b6e3803caca650dadebf79c2c329d193\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-button:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-button-28.0.0-alpha1.aar\6d5e4bdcc8353acd7de6f9bb5bb3550a\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-button:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-button-28.0.0-alpha1.aar\6d5e4bdcc8353acd7de6f9bb5bb3550a\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-card:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-card-28.0.0-alpha1.aar\f7eddf025991df44982dce4e664d1b7b\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-card:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-card-28.0.0-alpha1.aar\f7eddf025991df44982dce4e664d1b7b\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-chip:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-chip-28.0.0-alpha1.aar\f94c574e802f594e4ff3f1dfdf8ef6e1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-chip:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-chip-28.0.0-alpha1.aar\f94c574e802f594e4ff3f1dfdf8ef6e1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-internal:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-internal-28.0.0-alpha1.aar\93614a00db32ebbc16e0d51d9a86551f\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-internal:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-internal-28.0.0-alpha1.aar\93614a00db32ebbc16e0d51d9a86551f\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-bottomnavigation:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-bottomnavigation-28.0.0-alpha1.aar\d3ba90e82eba821c0f542a113eaf5c59\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-bottomnavigation:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-bottomnavigation-28.0.0-alpha1.aar\d3ba90e82eba821c0f542a113eaf5c59\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-floatingactionbutton:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-floatingactionbutton-28.0.0-alpha1.aar\c39ad9434aa60661e9fd2e4491355f3b\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-floatingactionbutton:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-floatingactionbutton-28.0.0-alpha1.aar\c39ad9434aa60661e9fd2e4491355f3b\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-navigation:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-navigation-28.0.0-alpha1.aar\3052c0d6092915e04693dad2435bfc4c\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-navigation:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-navigation-28.0.0-alpha1.aar\3052c0d6092915e04693dad2435bfc4c\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-resources:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-resources-28.0.0-alpha1.aar\786734c810f317273607ac96b5eb13c6\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-resources:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-resources-28.0.0-alpha1.aar\786734c810f317273607ac96b5eb13c6\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-tabs:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-tabs-28.0.0-alpha1.aar\03052830d74cf3f804d5ea5c6e449301\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-tabs:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-tabs-28.0.0-alpha1.aar\03052830d74cf3f804d5ea5c6e449301\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-textfield:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-textfield-28.0.0-alpha1.aar\9029eee31da9344dcb8d179fadc070c8\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-textfield:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-textfield-28.0.0-alpha1.aar\9029eee31da9344dcb8d179fadc070c8\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-typography:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-typography-28.0.0-alpha1.aar\abde3197682faa98edf93807230831ab\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-typography:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-typography-28.0.0-alpha1.aar\abde3197682faa98edf93807230831ab\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-shape:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-shape-28.0.0-alpha1.aar\8217e20b756f64a13f551afcc18f2288\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-shape:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-shape-28.0.0-alpha1.aar\8217e20b756f64a13f551afcc18f2288\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\952fb9fdc8b2a466ac445f58f43a70e0\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\952fb9fdc8b2a466ac445f58f43a70e0\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design-circularreveal-cardview:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-circularreveal-cardview-28.0.0-alpha1.aar\9864a533afe1614f7d2f457da79ed863\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-circularreveal-cardview:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-circularreveal-cardview-28.0.0-alpha1.aar\9864a533afe1614f7d2f457da79ed863\AndroidManifest.xml:22:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\e7547b867391b1ad0fa99a385f34ec64\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\e7547b867391b1ad0fa99a385f34ec64\AndroidManifest.xml:10:5-20
+MERGED from [com.android.support:design-animation:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-animation-28.0.0-alpha1.aar\35fa23fc1fbfcce14704fa2b3f3f0af2\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-animation:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-animation-28.0.0-alpha1.aar\35fa23fc1fbfcce14704fa2b3f3f0af2\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-circularreveal-coordinatorlayout:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-circularreveal-coordinatorlayout-28.0.0-alpha1.aar\bc9914b4518a2e4e2f290eff4cb782da\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-circularreveal-coordinatorlayout:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-circularreveal-coordinatorlayout-28.0.0-alpha1.aar\bc9914b4518a2e4e2f290eff4cb782da\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-expandable:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-expandable-28.0.0-alpha1.aar\00acc36445f171a0ef51352e1d0f8d66\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-expandable:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-expandable-28.0.0-alpha1.aar\00acc36445f171a0ef51352e1d0f8d66\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-stateful:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-stateful-28.0.0-alpha1.aar\12fbd6741ce08b36161be1290fd1c84f\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-stateful:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-stateful-28.0.0-alpha1.aar\12fbd6741ce08b36161be1290fd1c84f\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-ripple:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-ripple-28.0.0-alpha1.aar\4dff1c94f7e2fe30c6c58a610867a2a6\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-ripple:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-ripple-28.0.0-alpha1.aar\4dff1c94f7e2fe30c6c58a610867a2a6\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-canvas:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-canvas-28.0.0-alpha1.aar\7766c6ffa32290df34d53af1669d1e9d\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-canvas:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-canvas-28.0.0-alpha1.aar\7766c6ffa32290df34d53af1669d1e9d\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-circularreveal:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-circularreveal-28.0.0-alpha1.aar\09b8ac755e203dc9b6bb0b8216a1db31\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-circularreveal:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-circularreveal-28.0.0-alpha1.aar\09b8ac755e203dc9b6bb0b8216a1db31\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-drawable:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-drawable-28.0.0-alpha1.aar\fbab09e34a3490e8e31b1634ab343a47\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-drawable:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-drawable-28.0.0-alpha1.aar\fbab09e34a3490e8e31b1634ab343a47\AndroidManifest.xml:22:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\3cfc2d79830db60f68d5290a3ca47abb\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\3cfc2d79830db60f68d5290a3ca47abb\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design-color:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-color-28.0.0-alpha1.aar\9788ecd53ea5503626a9a6814915a966\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-color:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-color-28.0.0-alpha1.aar\9788ecd53ea5503626a9a6814915a966\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-math:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-math-28.0.0-alpha1.aar\d93e105e065cfefd7ef869dfb19d44c4\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-math:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-math-28.0.0-alpha1.aar\d93e105e065cfefd7ef869dfb19d44c4\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-snackbar:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-snackbar-28.0.0-alpha1.aar\07726c5c67b9366c784faa1af6af5d6d\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-snackbar:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-snackbar-28.0.0-alpha1.aar\07726c5c67b9366c784faa1af6af5d6d\AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from E:\Kampus\AS\HardwareThings\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from E:\Kampus\AS\HardwareThings\app\src\main\AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from E:\Kampus\AS\HardwareThings\app\src\main\AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from E:\Kampus\AS\HardwareThings\app\src\main\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from E:\Kampus\AS\HardwareThings\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from E:\Kampus\AS\HardwareThings\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.putrialutfi.hardwarethings.SplashScreen
+ADDED from E:\Kampus\AS\HardwareThings\app\src\main\AndroidManifest.xml:16:9-25:20
+	android:label
+		ADDED from E:\Kampus\AS\HardwareThings\app\src\main\AndroidManifest.xml:18:13-45
+	android:theme
+		ADDED from E:\Kampus\AS\HardwareThings\app\src\main\AndroidManifest.xml:19:13-56
+	android:name
+		ADDED from E:\Kampus\AS\HardwareThings\app\src\main\AndroidManifest.xml:17:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Kampus\AS\HardwareThings\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from E:\Kampus\AS\HardwareThings\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from E:\Kampus\AS\HardwareThings\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Kampus\AS\HardwareThings\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from E:\Kampus\AS\HardwareThings\app\src\main\AndroidManifest.xml:23:27-74
+activity#com.putrialutfi.hardwarethings.MainActivity
+ADDED from E:\Kampus\AS\HardwareThings\app\src\main\AndroidManifest.xml:26:9-50
+	android:name
+		ADDED from E:\Kampus\AS\HardwareThings\app\src\main\AndroidManifest.xml:26:19-47
+activity#com.putrialutfi.hardwarethings.DocsActivity
+ADDED from E:\Kampus\AS\HardwareThings\app\src\main\AndroidManifest.xml:27:9-33:20
+	android:parentActivityName
+		ADDED from E:\Kampus\AS\HardwareThings\app\src\main\AndroidManifest.xml:29:13-55
+	android:label
+		ADDED from E:\Kampus\AS\HardwareThings\app\src\main\AndroidManifest.xml:28:13-40
+	android:name
+		ADDED from E:\Kampus\AS\HardwareThings\app\src\main\AndroidManifest.xml:27:19-47
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from E:\Kampus\AS\HardwareThings\app\src\main\AndroidManifest.xml:30:13-32:48
+	android:value
+		ADDED from E:\Kampus\AS\HardwareThings\app\src\main\AndroidManifest.xml:32:17-46
+	android:name
+		ADDED from E:\Kampus\AS\HardwareThings\app\src\main\AndroidManifest.xml:31:17-63
+uses-sdk
+INJECTED from E:\Kampus\AS\HardwareThings\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Kampus\AS\HardwareThings\app\src\main\AndroidManifest.xml
+INJECTED from E:\Kampus\AS\HardwareThings\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-28.0.0-alpha1.aar\f696028527acba1277633c370e67df2c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-28.0.0-alpha1.aar\f696028527acba1277633c370e67df2c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-bottomappbar:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-bottomappbar-28.0.0-alpha1.aar\586bf3ebc4d9642994e70da7b116ecaf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-bottomappbar:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-bottomappbar-28.0.0-alpha1.aar\586bf3ebc4d9642994e70da7b116ecaf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-theme:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-theme-28.0.0-alpha1.aar\bee61a97a1350ec6f14b077c38695e40\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-theme:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-theme-28.0.0-alpha1.aar\bee61a97a1350ec6f14b077c38695e40\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-transformation:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-transformation-28.0.0-alpha1.aar\1e649ad908004e13c6577ef1afd0ee3d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-transformation:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-transformation-28.0.0-alpha1.aar\1e649ad908004e13c6577ef1afd0ee3d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-widget:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-widget-28.0.0-alpha1.aar\60bd494f84065dac357a24fbce05792c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-widget:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-widget-28.0.0-alpha1.aar\60bd494f84065dac357a24fbce05792c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-bottomsheet:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-bottomsheet-28.0.0-alpha1.aar\4ec0544e03fa0276660dcdbc6753e5e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-bottomsheet:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-bottomsheet-28.0.0-alpha1.aar\4ec0544e03fa0276660dcdbc6753e5e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-dialog:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-dialog-28.0.0-alpha1.aar\b6e3803caca650dadebf79c2c329d193\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-dialog:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-dialog-28.0.0-alpha1.aar\b6e3803caca650dadebf79c2c329d193\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-button:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-button-28.0.0-alpha1.aar\6d5e4bdcc8353acd7de6f9bb5bb3550a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-button:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-button-28.0.0-alpha1.aar\6d5e4bdcc8353acd7de6f9bb5bb3550a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-card:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-card-28.0.0-alpha1.aar\f7eddf025991df44982dce4e664d1b7b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-card:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-card-28.0.0-alpha1.aar\f7eddf025991df44982dce4e664d1b7b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-chip:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-chip-28.0.0-alpha1.aar\f94c574e802f594e4ff3f1dfdf8ef6e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-chip:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-chip-28.0.0-alpha1.aar\f94c574e802f594e4ff3f1dfdf8ef6e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-internal:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-internal-28.0.0-alpha1.aar\93614a00db32ebbc16e0d51d9a86551f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-internal:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-internal-28.0.0-alpha1.aar\93614a00db32ebbc16e0d51d9a86551f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-bottomnavigation:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-bottomnavigation-28.0.0-alpha1.aar\d3ba90e82eba821c0f542a113eaf5c59\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-bottomnavigation:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-bottomnavigation-28.0.0-alpha1.aar\d3ba90e82eba821c0f542a113eaf5c59\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-floatingactionbutton:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-floatingactionbutton-28.0.0-alpha1.aar\c39ad9434aa60661e9fd2e4491355f3b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-floatingactionbutton:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-floatingactionbutton-28.0.0-alpha1.aar\c39ad9434aa60661e9fd2e4491355f3b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-navigation:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-navigation-28.0.0-alpha1.aar\3052c0d6092915e04693dad2435bfc4c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-navigation:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-navigation-28.0.0-alpha1.aar\3052c0d6092915e04693dad2435bfc4c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-resources:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-resources-28.0.0-alpha1.aar\786734c810f317273607ac96b5eb13c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-resources:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-resources-28.0.0-alpha1.aar\786734c810f317273607ac96b5eb13c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-tabs:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-tabs-28.0.0-alpha1.aar\03052830d74cf3f804d5ea5c6e449301\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-tabs:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-tabs-28.0.0-alpha1.aar\03052830d74cf3f804d5ea5c6e449301\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-textfield:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-textfield-28.0.0-alpha1.aar\9029eee31da9344dcb8d179fadc070c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-textfield:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-textfield-28.0.0-alpha1.aar\9029eee31da9344dcb8d179fadc070c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-typography:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-typography-28.0.0-alpha1.aar\abde3197682faa98edf93807230831ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-typography:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-typography-28.0.0-alpha1.aar\abde3197682faa98edf93807230831ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-shape:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-shape-28.0.0-alpha1.aar\8217e20b756f64a13f551afcc18f2288\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-shape:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-shape-28.0.0-alpha1.aar\8217e20b756f64a13f551afcc18f2288\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha1.aar\b56cc2375fc5266db3b987e6b74e6e68\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha1.aar\b56cc2375fc5266db3b987e6b74e6e68\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-v4:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0-alpha1.aar\89df57aec4036ee1bbf17d00be67328d\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-v4:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0-alpha1.aar\89df57aec4036ee1bbf17d00be67328d\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\952fb9fdc8b2a466ac445f58f43a70e0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\952fb9fdc8b2a466ac445f58f43a70e0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design-circularreveal-cardview:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-circularreveal-cardview-28.0.0-alpha1.aar\9864a533afe1614f7d2f457da79ed863\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-circularreveal-cardview:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-circularreveal-cardview-28.0.0-alpha1.aar\9864a533afe1614f7d2f457da79ed863\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-alpha1.aar\2cf87cee7ec215c4499ec0dc3fa528c4\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-alpha1.aar\2cf87cee7ec215c4499ec0dc3fa528c4\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0-alpha1.aar\4cb983a0f23a6e9b94dcb2bded4fb24e\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0-alpha1.aar\4cb983a0f23a6e9b94dcb2bded4fb24e\AndroidManifest.xml:21:5-44
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\e7547b867391b1ad0fa99a385f34ec64\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\e7547b867391b1ad0fa99a385f34ec64\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha1.aar\e1114e913a5d3146f2276d6039fad539\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha1.aar\e1114e913a5d3146f2276d6039fad539\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:design-animation:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-animation-28.0.0-alpha1.aar\35fa23fc1fbfcce14704fa2b3f3f0af2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-animation:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-animation-28.0.0-alpha1.aar\35fa23fc1fbfcce14704fa2b3f3f0af2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-circularreveal-coordinatorlayout:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-circularreveal-coordinatorlayout-28.0.0-alpha1.aar\bc9914b4518a2e4e2f290eff4cb782da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-circularreveal-coordinatorlayout:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-circularreveal-coordinatorlayout-28.0.0-alpha1.aar\bc9914b4518a2e4e2f290eff4cb782da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-expandable:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-expandable-28.0.0-alpha1.aar\00acc36445f171a0ef51352e1d0f8d66\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-expandable:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-expandable-28.0.0-alpha1.aar\00acc36445f171a0ef51352e1d0f8d66\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-stateful:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-stateful-28.0.0-alpha1.aar\12fbd6741ce08b36161be1290fd1c84f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-stateful:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-stateful-28.0.0-alpha1.aar\12fbd6741ce08b36161be1290fd1c84f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha1.aar\70e111ff3eea1bfaf5bc02ad4ebb94c7\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha1.aar\70e111ff3eea1bfaf5bc02ad4ebb94c7\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha1.aar\d8730d442e171076872e6f0f06512c56\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha1.aar\d8730d442e171076872e6f0f06512c56\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:design-ripple:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-ripple-28.0.0-alpha1.aar\4dff1c94f7e2fe30c6c58a610867a2a6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-ripple:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-ripple-28.0.0-alpha1.aar\4dff1c94f7e2fe30c6c58a610867a2a6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha1.aar\1b8023f7287a1456a21f3d91d7db4d54\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha1.aar\1b8023f7287a1456a21f3d91d7db4d54\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha1.aar\41bc87c5e4fce4141a2b8b13d88073f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha1.aar\41bc87c5e4fce4141a2b8b13d88073f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0-alpha1.aar\4b5c2eb7ab0455c9ad14cbe97770ef95\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0-alpha1.aar\4b5c2eb7ab0455c9ad14cbe97770ef95\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:transition:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\transition-28.0.0-alpha1.aar\231ab1eeba9b50e51e4953f676b78536\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:transition:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\transition-28.0.0-alpha1.aar\231ab1eeba9b50e51e4953f676b78536\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha1.aar\da9cf459f34a874c9741b473ebd7f91a\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha1.aar\da9cf459f34a874c9741b473ebd7f91a\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha1.aar\7ca5bf80e2f728df17e9cd45e7f3a391\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha1.aar\7ca5bf80e2f728df17e9cd45e7f3a391\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha1.aar\d29659877486f2f3bec9b3b925f962cf\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha1.aar\d29659877486f2f3bec9b3b925f962cf\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha1.aar\a773ed14b5d31d51084ff31e149f7216\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha1.aar\a773ed14b5d31d51084ff31e149f7216\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha1.aar\314e5c9100c18a2af3fb8cb587c85350\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha1.aar\314e5c9100c18a2af3fb8cb587c85350\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha1.aar\274d86ab2e772ba2d73c87cb1aedb44a\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha1.aar\274d86ab2e772ba2d73c87cb1aedb44a\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha1.aar\565c4ccbc0a40615b0a83fd5cd4fd86c\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha1.aar\565c4ccbc0a40615b0a83fd5cd4fd86c\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha1.aar\e3cfeb307439e77c560aa40d100d4860\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha1.aar\e3cfeb307439e77c560aa40d100d4860\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha1.aar\d3bd5b5a8dc7cb727ccd2ee818580f0c\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha1.aar\d3bd5b5a8dc7cb727ccd2ee818580f0c\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:design-canvas:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-canvas-28.0.0-alpha1.aar\7766c6ffa32290df34d53af1669d1e9d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-canvas:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-canvas-28.0.0-alpha1.aar\7766c6ffa32290df34d53af1669d1e9d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-circularreveal:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-circularreveal-28.0.0-alpha1.aar\09b8ac755e203dc9b6bb0b8216a1db31\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-circularreveal:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-circularreveal-28.0.0-alpha1.aar\09b8ac755e203dc9b6bb0b8216a1db31\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-drawable:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-drawable-28.0.0-alpha1.aar\fbab09e34a3490e8e31b1634ab343a47\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-drawable:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-drawable-28.0.0-alpha1.aar\fbab09e34a3490e8e31b1634ab343a47\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\3cfc2d79830db60f68d5290a3ca47abb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\3cfc2d79830db60f68d5290a3ca47abb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha1.aar\57e13c3e4d0520ba1e15f2db701d0efa\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha1.aar\57e13c3e4d0520ba1e15f2db701d0efa\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha1.aar\4e9b6504f500223fa469352b2ba1b110\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha1.aar\4e9b6504f500223fa469352b2ba1b110\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:print:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha1.aar\3e6fd671e9557843d97f069569f9f41c\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:print:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha1.aar\3e6fd671e9557843d97f069569f9f41c\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha1.aar\13a2c6b46d554c36ffd19e21a8ef8539\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha1.aar\13a2c6b46d554c36ffd19e21a8ef8539\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha1.aar\de2c6a37e448828f74bc0f908d718883\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha1.aar\de2c6a37e448828f74bc0f908d718883\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:design-color:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-color-28.0.0-alpha1.aar\9788ecd53ea5503626a9a6814915a966\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-color:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-color-28.0.0-alpha1.aar\9788ecd53ea5503626a9a6814915a966\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-math:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-math-28.0.0-alpha1.aar\d93e105e065cfefd7ef869dfb19d44c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-math:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-math-28.0.0-alpha1.aar\d93e105e065cfefd7ef869dfb19d44c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-snackbar:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-snackbar-28.0.0-alpha1.aar\07726c5c67b9366c784faa1af6af5d6d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-snackbar:28.0.0-alpha1] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\design-snackbar-28.0.0-alpha1.aar\07726c5c67b9366c784faa1af6af5d6d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\1b5018843a7be14f8bb6bd39382ffa60\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\1b5018843a7be14f8bb6bd39382ffa60\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\62a7e134d046e0ed22f569e6be90360f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\62a7e134d046e0ed22f569e6be90360f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\9bc42aee6387c4ccd68f0e0df127dd60\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\9bc42aee6387c4ccd68f0e0df127dd60\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9ba502db0187aa35b147ae81dc3671f5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Putrialutfi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9ba502db0187aa35b147ae81dc3671f5\AndroidManifest.xml:20:5-44
+INJECTED from E:\Kampus\AS\HardwareThings\app\src\main\AndroidManifest.xml
+INJECTED from E:\Kampus\AS\HardwareThings\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Kampus\AS\HardwareThings\app\src\main\AndroidManifest.xml
+		ADDED from E:\Kampus\AS\HardwareThings\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Kampus\AS\HardwareThings\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Kampus\AS\HardwareThings\app\src\main\AndroidManifest.xml
+		ADDED from E:\Kampus\AS\HardwareThings\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Kampus\AS\HardwareThings\app\src\main\AndroidManifest.xml

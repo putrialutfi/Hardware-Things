@@ -1,0 +1,4 @@
+#Thu Apr 25 07:12:53 ICT 2019
+base.0=E\:\\Kampus\\AS\\HardwareThings\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\39
+path.0=classes.dex
+renamed.0=classes.dex

@@ -2,9 +2,11 @@ package com.putrialutfi.hardwarethings;
 
 
 import android.app.ProgressDialog;
+import android.content.DialogInterface;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
+import android.support.v4.app.FragmentActivity;
 import android.support.v4.widget.SwipeRefreshLayout;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
@@ -66,6 +68,21 @@ public class HomeFragment extends Fragment implements SwipeRefreshLayout.OnRefre
     }
 
     @Override
+    public void onStart() {
+        super.onStart();
+        Bundle bundle = getArguments();
+        if (bundle != null) {
+            id = bundle.getInt("id");
+            gambar = bundle.getString("gambar");
+            String deleting = bundle.getString("deleting");
+            if (deleting.equals("yes")){
+                deleteHardware(id, gambar);
+            }
+        }
+        getHardwares();
+    }
+
+    @Override
     public void onResume() {
         super.onResume();
         getHardwares();
@@ -105,6 +122,30 @@ public class HomeFragment extends Fragment implements SwipeRefreshLayout.OnRefre
                 Log.v("reports : ", "ERROR! " +t.getCause() + " : " +t.getMessage().toString());
             }
         });
+    }
+
+    private void deleteHardware(final int id, final String gambar) {
+        mApiInterface = ApiClient.getApiClient().create(ApiInterface.class);
+
+        Call<Hardwares> call =  mApiInterface.deleteHardware(id, gambar);
+        call.enqueue(new Callback<Hardwares>() {
+            @Override
+            public void onResponse(Call<Hardwares> call, Response<Hardwares> response) {
+                Log.v("reports : ", "deleting data");
+                String resp_code = response.body().getResp_code();
+                String message = response.body().getMessage();
+                if(resp_code.equals("1")) {
+                    Toast.makeText(getActivity(), "Data is deleted succesfully", Toast.LENGTH_SHORT).show();
+                    } else {
+                    Toast.makeText(getActivity(), message, Toast.LENGTH_SHORT).show();
+                }
+            }
+            @Override
+            public void onFailure(Call<Hardwares> call, Throwable t) {
+                Log.v("reports :", t.getMessage() +"because"+ t.getCause());
+            }
+        });
+        getHardwares();
     }
 
     @Override
