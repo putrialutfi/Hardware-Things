@@ -6,32 +6,31 @@
 
     $id      = $_POST['id'];
     $gambar  = $_POST['gambar'];
+    $split   = explode("/", $gambar);
+    $gambars = $split[5];
 
     $query = "DELETE FROM hardwares WHERE id='$id' ";
 
         if (mysqli_query($conn, $query)){
-
-            $split = explode("/", $gambar);
-            $gambars = $split[5];
-
             if (unlink("picts/".$gambars)){
-                $result["resp_code"] = "1";
-                $result["message"] = "Success!";
-                echo json_encode($result);
-                mysqli_close($conn);
+                success($conn);
             } else {
-                $response["resp_code"] = "0";
-                $response["message"] = "Error to delete a image! ".mysqli_error($conn);
-                echo json_encode($response);
-                mysqli_close($conn);
+                failed($conn);
             }
-
+            success($conn);
         } 
         else {
-            $response["resp_code"] = "0";
-            $response["message"] = "Error! ".mysqli_error($conn);
-            echo json_encode($response);
-            mysqli_close($conn);
+           failed($conn);
         }
-
+            
+    function success($conn){
+        $result["resp_code"] = "1";
+        $result["message"] = "Success!";
+        echo json_encode($result);
+    }
+    function failed($conn){
+         $response["resp_code"] = "0";
+        $response["message"] = "Error! ".mysqli_error($conn);
+        echo json_encode($response);
+    }
 ?>
